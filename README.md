@@ -1,4 +1,4 @@
-# Data Cleaning for NYC Airbnb Listings
+# Data Cleaning for NYC Airbnb
 
 This repository contains code for cleaning and visualizing Airbnb listing data for New York City.
 
